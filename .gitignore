@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code settings only
+.vscode/*.json
+
+# OS files
+.DS_Store

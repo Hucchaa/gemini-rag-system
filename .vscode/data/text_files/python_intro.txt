@@ -1,0 +1,11 @@
+
+Python is a powerful and beginner-friendly programming language.
+
+It is widely used in:
+- AI
+- Machine Learning
+- Web Development
+- Automation
+- Data Science
+
+Python is one of the most important languages for RAG and LLM applications.
